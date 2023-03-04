@@ -11,7 +11,7 @@ category: blog
 
 # DLME ?
 
-The Digital Library of The Middle East is an online platform created to provide free access to various cultural heritage materials related to the MENA region. It was launched in 2018 by a collaboration between various organizations and institutions. The platform was designed to help people find and access these materials.
+The [Digital Library of The Middle East](https://dlmenetwork.org/library) is an online platform created to provide free access to various cultural heritage materials related to the MENA region. It was launched in 2018 by a collaboration between various organizations and institutions. The platform was designed to help people find and access these materials.
 The Digital Library of Middle East and North Africa (DLME) aims to provide a wide range of digital resources to help promote the study and preservation of the region's cultural heritage. It features a variety of materials such as maps, manuscripts, audio and video recordings, and historical artifacts.
 The DLME platform provides tools that allow users to search and discover various materials. It also supports digital preservation and metadata management.
 
