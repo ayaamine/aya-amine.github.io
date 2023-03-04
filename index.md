@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-Currently taking Introduction to Digital Humanities. This website will serve as a portfolio to keep track of my work for the course. Stay tuned!
+Currently taking Introduction to Digital Humanities with Professor David Wrisley. This website will serve as a portfolio to keep track of my work for the course. Stay tuned!
 ## Current Interests and Projects:
 
 - Web Development & Graphic Design.
