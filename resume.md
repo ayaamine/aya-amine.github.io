@@ -5,68 +5,25 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Student at New York University Abu Dhabi.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2021 - 2025`
+__New York Univeristy Abu Dhabi__
+Major: Interactive Media
+Minors: Design, Business
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2018 - 2021`
+__Ecoles Al Madina__
+Graduated with honors in 2021 with "Baccalauréat Internationnal Option Française" in Physics & Chemistry.
 
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+Check out my Linkedin "Aya Amine" for more information on my experience, aspirations & skills!
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
