@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Blog Posts
-menutitle: Blog
+title: INTRO TO DAAH, SPRING 2023
+menutitle: Assignments
 menuorder: 4
 ---
