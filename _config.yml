@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: 
+title: Aya Amine
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Aya Amine
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: Made in Morocco. Interactive Media at NYU Abu Dhabi. Avid filmmaker, polyglot language-learner, poetry enthusiast, painter, cook, pianist, memory-saver and part-time singer.
+  email: aa8915@nyu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  twitter: itsayaamin
+  linkedin: Aya Amine
+  github: ayaamine
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
