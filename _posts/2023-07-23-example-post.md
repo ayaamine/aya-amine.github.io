@@ -21,7 +21,7 @@ The concept of discoverability is a vital part of information and digital archiv
 
 # Analysis 
 
-<img src="/assets/1.png" style="zoom:50%"/>
+<img src="/assets/imgonline-com-ua-twotoone-xPAubIDvz9PG3G.jpg" style="zoom:50%"/>
 
 To do this, I conducted research on the Digital Library of the Middle East , and ended up choosing two paintings from the “Turkish Collection: Ottoman Reformation to the Republic”. The two paintings are entitled “Eski Sokak” and “Eski bir sokak görünümü” on DLME. 
 My research started with finding the first painting “Eski Sokak” (translated to an old street. in Turkish) in the Turkish Collection. According to the metadata provided by DLME, the painting is originally named “Defterdar Yolu” (“Defterdar street”, from Turkish), painted by the Turkish painter Hasan Hayrettin Çizel 1891-1950 (known as Hayri Çizel). His main art themes are landscapes and outdoor views. “Defterdar Yolu”, which according to DLME is undated, stares a beautiful burnt-orange palette landscape, showing a woman in her jilbab walking on a route near a mosque. Since the painting is called Defterdar Yolu, it’s probably an image from Hayri’s eyes of the road leading to Defterdar Camii in Istanbul, Türkiye. It’s a watercolor painting on a 26 x 19 cm canva. Currently, it’s under the protection of Sakip Sabanci Museum in Istanbul, belonging to Sabanci University.
