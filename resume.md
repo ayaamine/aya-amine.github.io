@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
+## Briefly..
 
 Student at New York University Abu Dhabi.
 
