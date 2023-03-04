@@ -1,11 +1,11 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: Final project
+excerpt: Coming soon!
 # theme: simple
 transition: convex
 tags: [presentation]
-category: presentation
+category: Final project
 ---
 <section data-markdown>
   <textarea data-template>
